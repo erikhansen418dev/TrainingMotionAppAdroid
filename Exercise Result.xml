@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ExerciseResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FirstName>Dfsfs</FirstName>
+  <FamilyName>Dfsf</FamilyName>
+  <Email>dfsdfs</Email>
+  <DateTime>7/15/2015 5:05:22 AM</DateTime>
+  <Exercise>Exercise1</Exercise>
+  <Repetitions>0</Repetitions>
+  <Duration>0:4</Duration>
+</ExerciseResult>

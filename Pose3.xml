@@ -1,0 +1,13 @@
+<Xtr3DGesturesProfile>
+  <XmlVersion>1</XmlVersion>
+  <Gesture>
+    <Id>1</Id>
+    <Class>Down</Class>
+    <Name>1</Name>
+  </Gesture>
+  <Gesture>
+    <Id>2</Id>
+    <Class>Up</Class>
+    <Name>2</Name>
+  </Gesture>
+</Xtr3DGesturesProfile>

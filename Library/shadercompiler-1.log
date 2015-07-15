@@ -1,0 +1,41 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-3240
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1646 outsize=1536 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=5155 outsize=868 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=5155 outsize=569 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3171 outsize=675 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3171 outsize=686 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2791 outsize=498 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2791 outsize=359 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4875 outsize=910 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4875 outsize=545 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=1986 outsize=865 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1420 outsize=189 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1420 outsize=42 kw= ok=1
+Cmd: preprocess
+  insize=2135 outsize=447 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1985 outsize=560 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1985 outsize=26 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3171 outsize=531 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3171 outsize=539 kw=DIRECTIONAL ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
